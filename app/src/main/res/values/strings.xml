@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">GoodEating</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="app_slogan">Come bien, siéntete bien. ¡Descubre nuestra variedad de opciones saludables!</string>
+    <string name="app_inicio">Comida Saludable</string>
+    <string name="inicio_info">Comida Saludable en un click!</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Ordenes</string>
+    <string name="menu_slideshow">Información</string>
+    <string name="menu_map">Comó llegar</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="menu_profile">Perfil</string>
+
+
+    <string name="terminos">Terminos y Condiciones</string>
+    <string name="idioma">Idioma</string>
+    <string name="calificacion">Calificanos</string>
+    <string name="descuento">Descuentos</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="terminoOne">Al usar esta aplicación, aceptas los siguientes términos y condiciones.</string>
+    <string name="uso">Esta aplicación está destinada únicamente para fines educativos.</string>
+    <string name="derechos">Todo el contenido de esta aplicación es propiedad del desarrollador.</string>
+    <string name="select_language">Selecciona el idioma</string>
+    <string name="english">Inglés</string>
+    <string name="spanish">Español</string>
+    <string name="french">Frances</string>
+    <string name="apply_language">Cambiar de idioma</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
